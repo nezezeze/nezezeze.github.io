@@ -19,6 +19,6 @@ try:
 	os.system("chmod +x lite.sh")
 	os.system("./lite.sh")
 	os.system("rm -rf lite.sh")
-	print("#/\n#* Project : LiteSpeed Config Fucker\n#* Author  : M3T4L\n#* Twitter : M3T4LSEC\n#* TurkicHackersRulez\n#/\n\n[+] Bypassed Successfully!\n[!] Please check Lite0day folder!")
+	print("#/\n#* Project : LiteSpeed Config Fucker\n#* Author  : M3T4L\n#* Twitter : M3T4LSEC\n#* TurkicHackersRulez\n#/\n\n[+] Bypassed Successfully!\n[!] Please check Tur4nizm folder!")
 except:
-	print("Please enter your target file! Use : python amk.py /home/user/public_html/config.php")
+	print("dosyayi gir")
